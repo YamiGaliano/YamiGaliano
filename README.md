@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yamila Galiano</h1>
-<h3 align="center">A passionate Data Engineer from Argentina</h3>
+<h3 align="center">A passionate Data Analyst from Argentina</h3>
 
-- 🔭 I’m currently working on **Prisma**
+- 🔭 I’m open to work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
